@@ -1,5 +1,8 @@
 # FairTicket
 
+<img width="1983" height="793" alt="ChatGPT Image Sep 21, 2026, 06_57_05 AM" src="https://github.com/user-attachments/assets/3f2974d6-61ee-4ce5-a36f-adeff8dad33d" />
+
+
 **Event tickets with resale rules enforced by the contract.**
 
 FairTicket is a Monad testnet prototype for buying tickets, reselling them within a configured markup, and checking in with proof from the current owner's wallet. It explores how much of a ticketing policy can be enforced on-chain.
